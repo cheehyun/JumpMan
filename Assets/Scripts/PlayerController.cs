@@ -206,7 +206,7 @@ public class PlayerController : MonoBehaviour
 
         if(collision.gameObject.tag == "Item" )
         {
-            Itemeat(collision);
+            GetItem(collision);
         }      
     }
 
@@ -393,7 +393,7 @@ public class PlayerController : MonoBehaviour
 
     }//TakeDamage()
 
-    void Itemeat(Collision2D collision)
+    void GetItem(Collision2D collision)
     {
         EffectMgr.Instance.PlayEffect(ItemAudio.name);
 
