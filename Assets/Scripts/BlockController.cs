@@ -57,7 +57,7 @@ public class BlockController : MonoBehaviour
         if (m_BlockType == BlockType.Fade)
         {
             StartCoroutine(FadeInOut());
-
+            Debug.Log("Test LOG");
             if (m_Color.a < 0.3f)
                 this.GetComponent<Collider2D>().enabled = false;
             else
