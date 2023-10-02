@@ -1,0 +1,304 @@
+fileFormatVersion: 2
+guid: 9ea8026079bcc1446af34ade1f078f9d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7163369904114767755
+    second: Dude_Monster_Attack1_4_0
+  - first:
+      213: 8031115725154491009
+    second: Dude_Monster_Attack1_4_1
+  - first:
+      213: 1781681019467425889
+    second: Dude_Monster_Attack1_4_2
+  - first:
+      213: -2014175544865569861
+    second: Dude_Monster_Attack1_4_3
+  - first:
+      213: 8089479725862206307
+    second: Dude_Monster_Attack1_4_0
+  - first:
+      213: 6155008246995081460
+    second: Dude_Monster_Attack1_4_1
+  - first:
+      213: -5715407093191987510
+    second: Dude_Monster_Attack1_4_2
+  - first:
+      213: 336088377458607053
+    second: Dude_Monster_Attack1_4_3
+  - first:
+      213: -4284132388623342328
+    second: Dude_Monster_Attack1_4_4
+  - first:
+      213: -2551354618706000709
+    second: Dude_Monster_Attack1_4_5
+  - first:
+      213: 8598685153704716225
+    second: Dude_Monster_Attack1_4_6
+  - first:
+      213: -8538031223716543862
+    second: Dude_Monster_Attack1_4_7
+  - first:
+      213: 2770516887011289362
+    second: Dude_Monster_Attack1_4_8
+  - first:
+      213: 3664762425411931082
+    second: Dude_Monster_Attack1_4_9
+  - first:
+      213: 6636431663225859857
+    second: Dude_Monster_Attack1_4_10
+  - first:
+      213: 2226339805334923316
+    second: Dude_Monster_Attack1_4_11
+  - first:
+      213: -3726821090129224303
+    second: Dude_Monster_Attack1_4_12
+  - first:
+      213: -4643718176899348718
+    second: Dude_Monster_Attack1_4_13
+  - first:
+      213: -8201661874620096493
+    second: Dude_Monster_Attack1_4_14
+  - first:
+      213: -3164655489713331005
+    second: Dude_Monster_Attack1_4_15
+  - first:
+      213: 5062960699937158181
+    second: Dude_Monster_Attack1_4_16
+  - first:
+      213: 420164609227761567
+    second: Dude_Monster_Attack1_4_17
+  - first:
+      213: -9099853705218279990
+    second: Dude_Monster_Attack1_4_18
+  - first:
+      213: 7232339056438848286
+    second: Dude_Monster_Attack1_4_19
+  - first:
+      213: -1118570312862417080
+    second: Dude_Monster_Attack1_4_20
+  - first:
+      213: 7372267282786789140
+    second: Dude_Monster_Attack1_4_21
+  - first:
+      213: -434592025129928037
+    second: Dude_Monster_Attack1_4_22
+  - first:
+      213: 2479691843968224718
+    second: Dude_Monster_Attack1_4_23
+  - first:
+      213: -3660730552005063026
+    second: Dude_Monster_Attack1_4_24
+  - first:
+      213: 1586799303263251816
+    second: Dude_Monster_Attack1_4_25
+  - first:
+      213: 2127015789076089205
+    second: Dude_Monster_Attack1_4_26
+  - first:
+      213: -6519310635458803814
+    second: Dude_Monster_Attack1_4_27
+  - first:
+      213: 1505454008010992235
+    second: Dude_Monster_Attack1_4_28
+  - first:
+      213: -608671923865992640
+    second: Dude_Monster_Attack1_4_29
+  - first:
+      213: -6045983386231384115
+    second: Dude_Monster_Attack1_4_30
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dude_Monster_Attack1_4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bbdb563fa934070800000000000000
+      internalID: 8089479725862206307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dude_Monster_Attack1_4_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8ddb7d36bfa6550800000000000000
+      internalID: 6155008246995081460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dude_Monster_Attack1_4_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace2b8fb78bcea0b0800000000000000
+      internalID: -5715407093191987510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dude_Monster_Attack1_4_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3ce8f39960aa400800000000000000
+      internalID: 336088377458607053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
